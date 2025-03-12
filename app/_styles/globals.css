@@ -35,5 +35,13 @@
   --rdp-cell-size: 32px !important;
   --rdp-accent-color: theme("colors.accent.500") !important;
   --rdp-background-color: theme("colors.accent.600") !important;
-  margin: 0 !important;
+}
+
+.rdp-dropdown {
+  background-color: theme(
+    "colors.primary.900"
+  ) !important; /* Change to your desired color */
+  color: theme(
+    "colors.accent.100"
+  ) !important; /* Change text color if needed */
 }
