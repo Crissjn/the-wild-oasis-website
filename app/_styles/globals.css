@@ -38,10 +38,6 @@
 }
 
 .rdp-dropdown {
-  background-color: theme(
-    "colors.primary.900"
-  ) !important; /* Change to your desired color */
-  color: theme(
-    "colors.accent.100"
-  ) !important; /* Change text color if needed */
+  background-color: theme("colors.primary.900") !important;
+  color: theme("colors.accent.100") !important;
 }
